@@ -1,0 +1,10 @@
+{
+  "n_repeat": 10,
+  "data": {
+    "name": "dsprite",
+    "n_data": 5000
+  },
+  "model": {
+    "name": "riez"
+  }
+}

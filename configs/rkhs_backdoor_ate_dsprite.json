@@ -1,0 +1,11 @@
+{
+  "n_repeat": 10,
+  "data": {
+    "name": "dsprite",
+    "n_data": 5000
+  },
+  "model": {
+    "name": "rkhs",
+    "lam": [[0.0001, 0.001, 0.01]]
+  }
+}

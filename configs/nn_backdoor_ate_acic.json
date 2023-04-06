@@ -1,0 +1,14 @@
+{
+  "n_repeat": 101,
+  "data": {
+    "name": "acic",
+    "standardize": true,
+    "outlier_alpha": 5
+  },
+  "model": {
+    "name": "nn",
+    "reg": 0.001,
+    "niter": 500,
+    "backdoor_weight_decay": 0.001
+  }
+}

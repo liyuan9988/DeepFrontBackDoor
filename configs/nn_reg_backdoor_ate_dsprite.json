@@ -1,0 +1,12 @@
+{
+  "n_repeat": 1,
+  "data": {
+    "name": "dsprite",
+    "n_data": 3000
+  },
+  "model": {
+    "name": "nn_reg",
+    "reg": 0.001,
+    "niter": 100
+  }
+}

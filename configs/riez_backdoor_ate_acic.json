@@ -1,0 +1,11 @@
+{
+  "n_repeat": 101,
+  "data": {
+    "name": "acic",
+    "standardize": true,
+    "outlier_alpha": 5
+  },
+  "model": {
+    "name": "riez"
+  }
+}
